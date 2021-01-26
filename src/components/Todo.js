@@ -22,7 +22,7 @@ background-color:#57475C;
 width:40%;
 height:40px;
 margin:5px;
-border-radius:2px;
+border-radius:3px;
 
 &:hover {
 
